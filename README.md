@@ -1,29 +1,11 @@
-# firebase-vue-auth-example
+# Stem for Them
 
-## Project setup
-```
-npm install
-```
+## Hacklahoma 2020.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## About
+Stem for Them is a trivia game using STEM questions. The site when fully developed would feature ads, with the revenue going to STEM foundations.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The project uses VueJS, Firebase, Bootstrap, Javscript, CSS, and HTML
+All mockups were made using AdobeXD
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://hacklahoma-8a927.firebaseapp.com/
